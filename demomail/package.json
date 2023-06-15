@@ -1,0 +1,15 @@
+{
+  "name": "demomail",
+  "version": "1.0.0",
+  "description": "for demo purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noveen madhu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3"
+  }
+}
